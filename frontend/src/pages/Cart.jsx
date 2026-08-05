@@ -1,9 +1,55 @@
 import { Link } from 'react-router-dom';
 import { useCart } from '../context/CartContext';
 import { formatINR } from '../lib/format';
+import client from '../api/client';
 
 export default function Cart() {
   const { cart, subtotal, updateItem, removeItem, clearCart } = useCart();
+
+  const handlePayment = async () => {
+  try {
+    const { data: order } = await client.post('/payment/create-order', {
+      amount: subtotal,
+    });
+
+    const options = {
+      key: import.meta.env.VITE_RAZORPAY_KEY_ID,
+      amount: order.amount,
+      currency: order.currency,
+      name: 'WaveCraft',
+      description: 'Audio Store Purchase',
+      image: '/favicon.png',
+      order_id: order.id,
+
+      handler: async function (response) {
+  try {
+    const verify = await client.post("/payment/verify", response);
+
+    if (verify.data.success) {
+      clearCart();
+      window.location.href = "/payment-success";
+    } else {
+      alert("Payment verification failed");
+    }
+  } catch (err) {
+    console.error(err);
+    alert("Payment verification failed");
+  }
+},
+
+      theme: {
+        color: '#14d8b4',
+      },
+    };
+
+    const razor = new window.Razorpay(options);
+    razor.open();
+  } catch (err) {
+  console.error(err);
+  console.log(err.response);
+  alert(err.response?.data?.message || err.message);
+}
+};
 
   if (cart.items.length === 0) {
     return (
@@ -74,9 +120,12 @@ export default function Cart() {
         <span className="font-display font-700 text-2xl">{formatINR(subtotal)}</span>
       </div>
 
-      <button className="mt-6 w-full rounded-full bg-signal text-ink font-semibold py-3 hover:opacity-90 transition-opacity">
-        Checkout
-      </button>
+      <button
+  onClick={handlePayment}
+  className="mt-6 w-full rounded-full bg-signal text-ink font-semibold py-3 hover:opacity-90 transition-opacity"
+>
+  Proceed to Payment
+</button>
     </div>
   );
 }

@@ -14,6 +14,7 @@ import Login from './pages/Login';
 import Register from './pages/Register';
 import Admin from './pages/Admin';
 import NotFound from './pages/NotFound';
+import PaymentSuccess from './pages/PaymentSuccess';
 import { Link } from "react-router-dom";
 
 export default function App() {
@@ -38,14 +39,24 @@ export default function App() {
           <Route path="/login" element={<Login />} />
           <Route path="/register" element={<Register />} />
           <Route
-            path="/admin"
-            element={
-              <AdminRoute>
-                <Admin />
-              </AdminRoute>
-            }
-          />
-          <Route path="*" element={<NotFound />} />
+  path="/admin"
+  element={
+    <AdminRoute>
+      <Admin />
+    </AdminRoute>
+  }
+/>
+
+<Route
+  path="/payment-success"
+  element={
+    <ProtectedRoute>
+      <PaymentSuccess />
+    </ProtectedRoute>
+  }
+/>
+
+<Route path="*" element={<NotFound />} />
         </Routes>
       </main>
       <footer className="border-t border-line bg-ink">
