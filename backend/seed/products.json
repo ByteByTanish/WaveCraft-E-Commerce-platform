@@ -1,0 +1,532 @@
+[
+  {
+    "name": "Fernline Canopy ANC Headphones",
+    "slug": "fernline-canopy-anc-headphones",
+    "description": "Over-ear headphones with adaptive noise cancelling and 40mm bio-cellulose drivers, tuned for a warm, natural sound. 35-hour battery life.",
+    "price": 12999,
+    "category": "headphones",
+    "brand": "Fernline",
+    "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=800",
+    "stock": 24,
+    "rating": 4.7,
+    "specs": {
+      "Driver": "40mm bio-cellulose",
+      "Battery": "35 hours",
+      "Weight": "268g",
+      "Connectivity": "Bluetooth 5.3"
+    },
+    "featured": true,
+    "originalPrice": 15999
+  },
+  {
+    "name": "Northgrove Studio Headphones",
+    "slug": "northgrove-studio-headphones",
+    "description": "Reference-grade wired studio headphones for mixing and mastering, with a flat, honest frequency response.",
+    "price": 8499,
+    "category": "headphones",
+    "brand": "Northgrove",
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=800",
+    "stock": 18,
+    "rating": 4.6,
+    "specs": {
+      "Impedance": "64 ohm",
+      "Cable": "3m coiled",
+      "Type": "Closed-back"
+    }
+  },
+  {
+    "name": "Thicket Everyday Headphones",
+    "slug": "thicket-everyday-headphones",
+    "description": "Lightweight on-ear headphones built from recycled ocean plastic, designed for long, comfortable listening.",
+    "price": 3499,
+    "category": "headphones",
+    "brand": "Thicket",
+    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800",
+    "stock": 30,
+    "rating": 4.3,
+    "specs": {
+      "Material": "Recycled ocean plastic",
+      "Battery": "28 hours",
+      "Weight": "210g"
+    }
+  },
+  {
+    "name": "Mossline Wanderer Headphones",
+    "slug": "mossline-wanderer-headphones",
+    "description": "Foldable travel headphones with a soft-touch matte shell and passive noise isolation for quiet journeys.",
+    "price": 5999,
+    "category": "headphones",
+    "brand": "Mossline",
+    "image": "https://images.unsplash.com/photo-1641048930621-ab5d225ae5b0?w=800",
+    "stock": 22,
+    "rating": 4.4,
+    "specs": {
+      "Fold": "Flat-folding hinge",
+      "Battery": "24 hours",
+      "Isolation": "Passive"
+    }
+  },
+  {
+    "name": "Rootnote Sapling Kids Headphones",
+    "slug": "rootnote-sapling-kids-headphones",
+    "description": "Volume-limited on-ear headphones built for children, with a durable folding frame and easy-clean fabric.",
+    "price": 1799,
+    "category": "headphones",
+    "brand": "Rootnote",
+    "image": "https://images.unsplash.com/photo-1609081219090-a6d81d3085bf?w=800",
+    "stock": 40,
+    "rating": 4.1,
+    "specs": {
+      "Volume limit": "85dB",
+      "Frame": "Folding, durable hinge"
+    }
+  },
+  {
+    "name": "Driftwood Trail ANC Headphones",
+    "slug": "driftwood-trail-anc-headphones",
+    "description": "Rugged over-ear headphones with hybrid ANC, weather-sealed hinges, and a 50-hour battery for long expeditions.",
+    "price": 15999,
+    "category": "headphones",
+    "brand": "Driftwood",
+    "image": "https://images.unsplash.com/photo-1585298723682-7115561c51b7?w=800",
+    "stock": 14,
+    "rating": 4.8,
+    "specs": {
+      "ANC": "Hybrid adaptive",
+      "Battery": "50 hours",
+      "Rating": "IPX4"
+    },
+    "featured": true
+  },
+  {
+    "name": "Fernline Grove Earbuds",
+    "slug": "fernline-grove-earbuds",
+    "description": "Compact true wireless earbuds with active noise cancellation and a matte case that fits in any pocket.",
+    "price": 6499,
+    "category": "earbuds",
+    "brand": "Fernline",
+    "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=800",
+    "stock": 45,
+    "rating": 4.4,
+    "specs": {
+      "Battery": "6h + 24h case",
+      "Water resistance": "IPX5",
+      "ANC": "Active"
+    },
+    "featured": true
+  },
+  {
+    "name": "Loam Pebble Earbuds",
+    "slug": "loam-pebble-earbuds",
+    "description": "Minimal true wireless earbuds with a smooth pebble-shaped case and a calm, balanced sound signature.",
+    "price": 3999,
+    "category": "earbuds",
+    "brand": "Loam",
+    "image": "https://images.unsplash.com/photo-1632200004922-bc18602c79fc?w=800",
+    "stock": 38,
+    "rating": 4.2,
+    "specs": {
+      "Battery": "5h + 20h case",
+      "Chip": "Custom low-power",
+      "Weight": "4.2g each"
+    },
+    "originalPrice": 4999
+  },
+  {
+    "name": "Rootnote Ridgeline Sport Earbuds",
+    "slug": "rootnote-ridgeline-sport-earbuds",
+    "description": "Open-ear sport earbuds designed for runners, with secure hooks and a 10-hour battery.",
+    "price": 4499,
+    "category": "earbuds",
+    "brand": "Rootnote",
+    "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=800",
+    "stock": 33,
+    "rating": 4.1,
+    "specs": {
+      "Battery": "10 hours",
+      "Fit": "Open-ear hook",
+      "Water resistance": "IPX4"
+    },
+    "originalPrice": 5499
+  },
+  {
+    "name": "Palewood Hush Earbuds",
+    "slug": "palewood-hush-earbuds",
+    "description": "Noise-isolating earbuds with foam eartips and a soft-close charging case finished in stone grey.",
+    "price": 2999,
+    "category": "earbuds",
+    "brand": "Palewood",
+    "image": "https://images.unsplash.com/photo-1598900863662-da1c3e6dd9d9?w=800",
+    "stock": 50,
+    "rating": 4.0,
+    "specs": {
+      "Battery": "5h + 18h case",
+      "Eartips": "Memory foam included"
+    }
+  },
+  {
+    "name": "Northgrove Ember Earbuds Pro",
+    "slug": "northgrove-ember-earbuds-pro",
+    "description": "Premium ANC earbuds with wireless charging, adaptive EQ, and multipoint connection for switching devices.",
+    "price": 8999,
+    "category": "earbuds",
+    "brand": "Northgrove",
+    "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=800",
+    "stock": 20,
+    "rating": 4.6,
+    "specs": {
+      "ANC": "Adaptive",
+      "Charging": "Wireless Qi",
+      "Multipoint": "2 devices"
+    }
+  },
+  {
+    "name": "Thicket Field Wired Earphones",
+    "slug": "thicket-field-wired-earphones",
+    "description": "Durable in-ear wired earphones with a braided cable and inline remote, built for everyday reliability.",
+    "price": 599,
+    "category": "wired-earphones",
+    "brand": "Thicket",
+    "image": "https://images.unsplash.com/photo-1722439667098-f32094e3b1d4?w=800",
+    "stock": 80,
+    "rating": 4.0,
+    "specs": {
+      "Cable": "Braided nylon, 1.2m",
+      "Jack": "3.5mm",
+      "Remote": "In-line, 1-button"
+    }
+  },
+  {
+    "name": "Loam Meadow Wired Earphones",
+    "slug": "loam-meadow-wired-earphones",
+    "description": "Clear-sounding wired earphones with a metal housing and a tangle-resistant flat cable.",
+    "price": 899,
+    "category": "wired-earphones",
+    "brand": "Loam",
+    "image": "https://images.unsplash.com/photo-1632200004922-bc18602c79fc?w=800",
+    "stock": 65,
+    "rating": 4.2,
+    "specs": {
+      "Housing": "Aluminium",
+      "Cable": "Flat, tangle-resistant",
+      "Jack": "3.5mm"
+    }
+  },
+  {
+    "name": "Rootnote Basics Wired Earphones",
+    "slug": "rootnote-basics-wired-earphones",
+    "description": "Simple, affordable wired earphones for daily use, clear mids and a comfortable silicone fit.",
+    "price": 399,
+    "category": "wired-earphones",
+    "brand": "Rootnote",
+    "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=800",
+    "stock": 100,
+    "rating": 3.9,
+    "specs": {
+      "Jack": "3.5mm",
+      "Cable length": "1.2m",
+      "Tips": "Silicone, 3 sizes"
+    }
+  },
+  {
+    "name": "Driftwood Signal USB-C Earphones",
+    "slug": "driftwood-signal-usb-c-earphones",
+    "description": "Wired earphones with a USB-C connector and built-in DAC, tuned for detail on modern phones and laptops.",
+    "price": 1299,
+    "category": "wired-earphones",
+    "brand": "Driftwood",
+    "image": "https://images.unsplash.com/photo-1722439667098-f32094e3b1d4?w=800",
+    "stock": 42,
+    "rating": 4.3,
+    "specs": {
+      "Connector": "USB-C",
+      "DAC": "Built-in",
+      "Cable": "1.2m"
+    }
+  },
+  {
+    "name": "Palewood Studio Wired Earphones",
+    "slug": "palewood-studio-wired-earphones",
+    "description": "Monitor-style wired earphones with a detachable cable, favoured for critical listening on a budget.",
+    "price": 1899,
+    "category": "wired-earphones",
+    "brand": "Palewood",
+    "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=800",
+    "stock": 28,
+    "rating": 4.4,
+    "specs": {
+      "Cable": "Detachable, MMCX",
+      "Driver": "Dynamic 10mm"
+    }
+  },
+  {
+    "name": "Mossline Trail Wired Earphones",
+    "slug": "mossline-trail-wired-earphones",
+    "description": "Sweat-resistant wired earphones with ear hooks, made for runs and workouts without a battery to worry about.",
+    "price": 699,
+    "category": "wired-earphones",
+    "brand": "Mossline",
+    "image": "https://images.unsplash.com/photo-1632200004922-bc18602c79fc?w=800",
+    "stock": 55,
+    "rating": 4.0,
+    "specs": {
+      "Fit": "Ear hook",
+      "Resistance": "Sweat-resistant",
+      "Jack": "3.5mm"
+    }
+  },
+  {
+    "name": "Northgrove Monolith Bookshelf Speakers",
+    "slug": "northgrove-monolith-bookshelf-speakers",
+    "description": "Pair of powered bookshelf speakers finished in walnut veneer, with Bluetooth aptX HD and a rich, room-filling sound.",
+    "price": 32999,
+    "category": "speakers",
+    "brand": "Northgrove",
+    "image": "https://images.unsplash.com/photo-1582978571763-2d039e56f0c3?w=800",
+    "stock": 12,
+    "rating": 4.8,
+    "specs": {
+      "Power": "2 x 60W",
+      "Inputs": "Optical, RCA, Bluetooth",
+      "Finish": "Walnut veneer"
+    },
+    "featured": true
+  },
+  {
+    "name": "Driftwood Basecamp Portable Speaker",
+    "slug": "driftwood-basecamp-portable-speaker",
+    "description": "Rugged waterproof Bluetooth speaker with a 20-hour battery and 360-degree sound for the outdoors.",
+    "price": 5999,
+    "category": "speakers",
+    "brand": "Driftwood",
+    "image": "https://images.unsplash.com/photo-1507878566509-a0dbe19677a5?w=800",
+    "stock": 55,
+    "rating": 4.3,
+    "specs": {
+      "Battery": "20 hours",
+      "Rating": "IP67",
+      "Sound": "360-degree"
+    },
+    "featured": true,
+    "originalPrice": 7499
+  },
+  {
+    "name": "Thicket Understory Soundbar",
+    "slug": "thicket-understory-soundbar",
+    "description": "Compact soundbar with virtual surround sound and HDMI eARC support, built for small living rooms.",
+    "price": 14999,
+    "category": "speakers",
+    "brand": "Thicket",
+    "image": "https://images.unsplash.com/photo-1675319245480-215961c129f1?w=800",
+    "stock": 15,
+    "rating": 4.4,
+    "specs": {
+      "Channels": "2.1 virtual surround",
+      "Connection": "HDMI eARC, Optical"
+    },
+    "originalPrice": 18999
+  },
+  {
+    "name": "Loam Ember Mini Speaker",
+    "slug": "loam-ember-mini-speaker",
+    "description": "Palm-sized Bluetooth speaker with surprising bass depth, wrapped in a woven fabric shell.",
+    "price": 2499,
+    "category": "speakers",
+    "brand": "Loam",
+    "image": "https://images.unsplash.com/photo-1547052178-7f2c5a20c332?w=800",
+    "stock": 48,
+    "rating": 4.1,
+    "specs": {
+      "Battery": "12 hours",
+      "Shell": "Woven fabric",
+      "Weight": "180g"
+    }
+  },
+  {
+    "name": "Palewood Clearing Smart Speaker",
+    "slug": "palewood-clearing-smart-speaker",
+    "description": "Wi-Fi and Bluetooth smart speaker with warm analogue-style tuning and a soft ambient light ring.",
+    "price": 8999,
+    "category": "speakers",
+    "brand": "Palewood",
+    "image": "https://images.unsplash.com/photo-1674303324806-7018a739ed11?w=800",
+    "stock": 19,
+    "rating": 4.5,
+    "specs": {
+      "Connectivity": "Wi-Fi + Bluetooth",
+      "Light": "Ambient ring",
+      "Voice assistant": "Supported"
+    }
+  },
+  {
+    "name": "Mossline Hollow Belt-Drive Turntable",
+    "slug": "mossline-hollow-belt-drive-turntable",
+    "description": "Belt-drive turntable with a built-in preamp and Bluetooth output, designed to sit easily into a modern setup.",
+    "price": 18999,
+    "category": "turntables",
+    "brand": "Mossline",
+    "image": "https://images.unsplash.com/photo-1616681255209-368a2cd3e643?w=800",
+    "stock": 9,
+    "rating": 4.5,
+    "specs": {
+      "Drive": "Belt",
+      "Preamp": "Built-in",
+      "Output": "Bluetooth + RCA"
+    },
+    "featured": true,
+    "originalPrice": 22999
+  },
+  {
+    "name": "Northgrove Heritage Direct-Drive Turntable",
+    "slug": "northgrove-heritage-direct-drive-turntable",
+    "description": "Direct-drive turntable for serious listening, with adjustable counterweight and anti-skate control.",
+    "price": 27999,
+    "category": "turntables",
+    "brand": "Northgrove",
+    "image": "https://images.unsplash.com/photo-1542395118-9d95347995bc?w=800",
+    "stock": 6,
+    "rating": 4.7,
+    "specs": {
+      "Drive": "Direct",
+      "Counterweight": "Adjustable",
+      "Speeds": "33/45/78 RPM"
+    }
+  },
+  {
+    "name": "Loam Grove Travel Case",
+    "slug": "loam-grove-travel-case",
+    "description": "Hard-shell travel case with custom foam cutouts, keeping headphones and cables organised on the move.",
+    "price": 1299,
+    "category": "accessories",
+    "brand": "Loam",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800",
+    "stock": 70,
+    "rating": 4.2,
+    "specs": {
+      "Material": "EVA hard shell",
+      "Fits": "Most over-ear headphones"
+    }
+  },
+  {
+    "name": "Fernline Pulse Desktop DAC/Amp",
+    "slug": "fernline-pulse-desktop-dac-amp",
+    "description": "USB-C desktop DAC and headphone amplifier with a balanced output for high-impedance headphones.",
+    "price": 6999,
+    "category": "accessories",
+    "brand": "Fernline",
+    "image": "https://images.unsplash.com/photo-1594501432907-91214bfdd928?w=800",
+    "stock": 21,
+    "rating": 4.6,
+    "specs": {
+      "Output": "Balanced 4.4mm",
+      "Connection": "USB-C",
+      "DAC chip": "ES9038"
+    }
+  },
+  {
+    "name": "Rootnote Cleaning & Care Kit",
+    "slug": "rootnote-cleaning-care-kit",
+    "description": "Anti-static slipmat, carbon fibre brush, and microfibre cloth for keeping vinyl and gear dust-free.",
+    "price": 649,
+    "category": "accessories",
+    "brand": "Rootnote",
+    "image": "https://images.unsplash.com/photo-1631090146730-31fed1147fc3?w=800",
+    "stock": 45,
+    "rating": 4.3,
+    "specs": {
+      "Includes": "Slipmat, carbon brush, cleaning cloth"
+    }
+  },
+  {
+    "name": "Fernline Horizon Hybrid Headphones",
+    "slug": "fernline-horizon-hybrid-headphones",
+    "description": "Hybrid ANC over-ear headphones balancing deep bass with a clear midrange, built for daily commutes.",
+    "price": 9999,
+    "originalPrice": 13999,
+    "category": "headphones",
+    "brand": "Fernline",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800",
+    "stock": 26,
+    "rating": 4.5,
+    "specs": {
+      "ANC": "Hybrid",
+      "Battery": "30 hours",
+      "Weight": "245g"
+    }
+  },
+  {
+    "name": "Palewood Drift Earbuds",
+    "slug": "palewood-drift-earbuds",
+    "description": "Featherlight true wireless earbuds with a quiet, neutral tuning and a pocket-sized case.",
+    "price": 3499,
+    "category": "earbuds",
+    "brand": "Palewood",
+    "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=800",
+    "stock": 41,
+    "rating": 4.2,
+    "specs": {
+      "Battery": "5h + 20h case",
+      "Weight": "4g each"
+    }
+  },
+  {
+    "name": "Northgrove Basics Wired Earphones",
+    "slug": "northgrove-basics-wired-earphones",
+    "description": "No-frills wired earphones with a durable jacket cable and balanced sound for everyday listening.",
+    "price": 449,
+    "category": "wired-earphones",
+    "brand": "Northgrove",
+    "image": "https://images.unsplash.com/photo-1632200004922-bc18602c79fc?w=800",
+    "stock": 90,
+    "rating": 3.9,
+    "specs": {
+      "Jack": "3.5mm",
+      "Cable": "1.2m"
+    }
+  },
+  {
+    "name": "Rootnote Glade Smart Speaker",
+    "slug": "rootnote-glade-smart-speaker",
+    "description": "Compact Wi-Fi smart speaker with room-filling sound and a soft fabric finish.",
+    "price": 5499,
+    "category": "speakers",
+    "brand": "Rootnote",
+    "image": "https://images.unsplash.com/photo-1547052178-7f2c5a20c332?w=800",
+    "stock": 24,
+    "rating": 4.2,
+    "specs": {
+      "Connectivity": "Wi-Fi + Bluetooth",
+      "Finish": "Fabric"
+    }
+  },
+  {
+    "name": "Loam Analog Starter Turntable",
+    "slug": "loam-analog-starter-turntable",
+    "description": "Entry-level belt-drive turntable with a pre-mounted cartridge, ideal for a first vinyl setup.",
+    "price": 10999,
+    "category": "turntables",
+    "brand": "Loam",
+    "image": "https://images.unsplash.com/photo-1496293455970-f8581aae0e3b?w=800",
+    "stock": 17,
+    "rating": 4.1,
+    "specs": {
+      "Drive": "Belt",
+      "Cartridge": "Pre-mounted",
+      "Output": "RCA"
+    }
+  },
+  {
+    "name": "Mossline Cable Organizer Kit",
+    "slug": "mossline-cable-organizer-kit",
+    "description": "Reusable cable ties, a compact zip pouch, and adhesive clips for keeping desk audio cables tidy.",
+    "price": 349,
+    "category": "accessories",
+    "brand": "Mossline",
+    "image": "https://images.unsplash.com/photo-1594501432907-91214bfdd928?w=800",
+    "stock": 85,
+    "rating": 4.0,
+    "specs": {
+      "Includes": "Ties, zip pouch, adhesive clips"
+    }
+  }
+]
