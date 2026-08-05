@@ -182,6 +182,8 @@ WaveCraft-E-Commerce-platform
 ├── frontend
 │
 ├── backend
+|
+├── gitignore
 │
 └── README.md
 ```
