@@ -81,13 +81,15 @@ frontend/
 backend/
 ```
 
-## Future Improvements
+## Website Screenshots 
 
-- Wishlist
-- Online payment integration
-- Order history
-- Product reviews and ratings
-- Email notifications
+<img width="1920" height="1080" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/f0f79ede-20af-468b-b5d2-188fcd995eaa" />
+<img width="1920" height="1080" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/d6590e52-2d5d-4bd2-84a8-d388b29a1bd3" />
+<img width="1920" height="1080" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/56560ff8-29fc-4303-a239-42b3d4742b05" />
+<img width="1920" height="1080" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/a5251e6f-69a5-4860-bcd0-a64be1ad596b" />
+
+
+
 
 ## Author
 
