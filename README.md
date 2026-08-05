@@ -232,13 +232,23 @@ WaveCraft-E-Commerce-platform
 
 <img width="1920" height="1080" alt="Shop Page" src="https://github.com/user-attachments/assets/d6590e52-2d5d-4bd2-84a8-d388b29a1bd3" />
 
-### Shop Page
+### Light Mode
 
 <img width="1920" height="1080" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/56560ff8-29fc-4303-a239-42b3d4742b05" />
 
-### Light Mode
+### Shop Page
 
 <img width="1920" height="1080" alt="Cart Page" src="https://github.com/user-attachments/assets/a5251e6f-69a5-4860-bcd0-a64be1ad596b" />
+
+### Admin Panel 
+
+<img width="1920" height="1080" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/e25c5cc5-f8ca-4e54-8972-8db4488eaade" />
+
+### Razorpay Integration
+
+<img width="1920" height="1080" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/90ccfb61-6e21-4b2b-aeaa-77cd447db39e" />
+
+
 
 ## Author
 
