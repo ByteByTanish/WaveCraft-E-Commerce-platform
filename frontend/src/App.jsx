@@ -84,7 +84,7 @@ export default function App() {
 
       {/* Description */}
       <p className="text-mute text-lg max-w-2xl leading-8 mb-10">
-        Built by Tanish Mandhera as a technical assessment project
+        Built as a technical assessment project for BTech Final Year
       </p>
 
       {/* Navigation */}
